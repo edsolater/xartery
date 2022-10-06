@@ -1,5 +1,5 @@
 {
-  "name": "@edsolater/river",
+  "name": "@edsolater/xartery",
   "version": "0.1.0",
   "description": "client web worker database",
   "main": "./dist/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edsolater/river.git"
+    "url": "git+https://github.com/edsolater/xartery.git"
   },
   "files": [
     "dist",
@@ -20,9 +20,9 @@
   "author": "edsolater <edsolater@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edsolater/river/issues"
+    "url": "https://github.com/edsolater/xartery/issues"
   },
-  "homepage": "https://github.com/edsolater/river#readme",
+  "homepage": "https://github.com/edsolater/xartery#readme",
   "devDependencies": {
     "@types/jest": "^29.1.2",
     "@types/node": "^18.8.2",
